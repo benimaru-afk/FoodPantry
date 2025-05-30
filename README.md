@@ -13,6 +13,7 @@ The goal of this application is to:
 - **Maintain food safety** standards by ensuring expired items are removed automatically.
 - **Provide a user-friendly interface** for volunteers with minimal technical knowledge.
 
+STUDENT SYSTEM: open webapp (to be built soon...)
 
 ADMIN SYSTEM: running an exe
 ---
@@ -64,8 +65,6 @@ All data is stored locally in a **SQLite database** (`food_items.db`).
 ## EXE Creation
 
 1. In terminal/powershell, install 'pyinstaller' with 'pip install pyinstaller'
-2. run the command 'pyinstaller --onefile -w 'filename.py' '
-
-
-
-STUDENT SYSTEM: Webapp to be created...
+2. run the command:
+```bash
+'pyinstaller --onefile -w 'filename.py' '
