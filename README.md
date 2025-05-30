@@ -14,6 +14,7 @@ The goal of this application is to:
 - **Provide a user-friendly interface** for volunteers with minimal technical knowledge.
 
 STUDENT SYSTEM: open webapp (to be built soon...)
+---
 
 ADMIN SYSTEM: running an exe
 ---
